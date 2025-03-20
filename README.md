@@ -1,2 +1,2 @@
 # researchkw
-AI-assited keyword research tool
+AI-assisted keyword research tool
